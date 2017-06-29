@@ -1,4 +1,4 @@
-# Prótotipo de um aplicativo mobile para Frequência (chamada) de Alunos.
+# Protótipo de um aplicativo mobile para Frequência (chamada) de Alunos.
 
 
 Trabalho desenvolvido para a disciplina de Interface Homem-Máquina da Faculdade Metropolitana da Grande Fortaleza - FAMETRO.
