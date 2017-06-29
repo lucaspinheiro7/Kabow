@@ -12,7 +12,7 @@ E com isso perdendo a frequência dos alunos, sem saber quem veio ou quem faltou.
 ## Solução
 
 Com o aplicativo KABOW a chamada poderá ser feita mesmo off-line. 
-Pois a lista de frequência ficará armazenada no aplicativo. Caso futuramente seja integrado ao sistema atual da faculdade, automaticamente passaria os dados do aplicativo para o sistema quando estiver conexão com a internet.
+Pois a lista de frequência ficará armazenada no aplicativo. Caso futuramente seja integrado ao sistema atual da faculdade, automaticamente passaria os dados do aplicativo para o sistema quando se conectasse à internet.
 
 
 ## Tecnologia utilizada:
